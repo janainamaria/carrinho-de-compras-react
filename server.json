@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Cadeira Gamer Alpha Gamer Polaris Racing, Black Blue",
+      "price": 1449.90,
+      "image": "https://images3.kabum.com.br/produtos/fotos/81473/81473_1476727007_g.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Monitor Gamer Aopen 24MV1Y 23.8, 165Hz, 1ms, LED, HDMI e DisplayPort, FreeSync Premium, HDR 10, Preto - UM.QM1AA.P02",
+      "price": 1299.90,
+      "image": "https://images.kabum.com.br/produtos/fotos/237141/monitor-gamer-aopen-24mv1y-23-8-165hz-1ms-led-hdmi-e-displayport-freesync-premium-hdr-10-preto-um-qm1aa-p02_1633631790_gg.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Headset Gamer Razer BlackShark V2 X, Som Surround 7.1, P2, Drivers 50mm - RZ04-03240100-R3U1",
+      "price": 249.90,
+      "image": "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956254_g.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mouse Gamer Redragon Cobra, Chroma RGB, 12400DPI, 7 Botões, Preto - M711 V2",
+      "price": 99.90,
+      "image": "https://comunidade-files.tecnoblog.net/original/3X/1/0/101b8b03f0a0c2504218b227cac7a87bc43c1c60.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Teclado Mecânico Gamer T-Dagger Bora, RGB, Switch Outemu Brown, PT - T-TGK315-BROWN",
+      "price": 179.90,
+      "image": "https://images.kabum.com.br/produtos/fotos/107964/teclado-mecanico-gamer-t-dagger-bora-rgb-switch-outemu-brown-pt-t-tgk315-brown_1641414698_original.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Caixa de Som Gamer Husky Gaming Storm",
+      "price": 54.90,
+      "image": "https://images.kabum.com.br/produtos/fotos/102021/caixa-de-som-gamer-husky-storm-rainbow-6w-usb-cx-hst-ra_caixa-de-som-gamer-husky-storm-rainbow-6w-usb-cx-hst-ra_1565178255_g.jpg"
+    }
+  ]
+}
